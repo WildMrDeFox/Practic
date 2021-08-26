@@ -1,0 +1,139 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #AE7C78;
+    line-height: 20px;
+}
+
+.nav {
+    list-style: none;
+}
+
+.nav-link {
+    line-height: 20px;
+    text-decoration: none;
+    color: #AE7C78;
+}
+
+
+.main-title {
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 59px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+.main-description {
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.btn {
+    text-decoration: none;
+    color: #fff;
+    line-height: 20px;
+    background-color: #AE7C78;
+    padding: 30px 70px;
+    border-radius: 40px;
+}
+
+.title-item {
+    font-weight: 500;
+}
+
+
+.section-title {
+    font-family: Playfair Display;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.bouquets-title {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.bouquets-price {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.bouquets-btn {
+    padding: 30px 107px;
+}
+
+.bouquets-card-title {
+    font-family: Playfair Display;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0.02em;
+    /*
+    color: #fff;
+    */
+}
+
+.bouquets-card-text {
+    /*
+    color: #fff;
+    */
+}
+
+.bouquets-info-title {
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 58px;
+    letter-spacing: 0.02em;
+    /*
+    color: #fff;
+    */
+}
+
+.bouquets-info-text {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+
+.ideal-title {
+    font-family: Playfair Display;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0.02em;
+}
+
+.ideal-text {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.reviews-name {
+    font-weight: 500;
+}
+
+.contact-info-title {
+    font-family: Playfair Display;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+}
+
+.contact-address {
+    font-weight: 500;
+
+}
+
+.footer-nav ul {
+    list-style: none;
+}
